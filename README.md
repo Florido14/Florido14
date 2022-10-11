@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Florido14
-- 👀 I’m interested in development in frontend (with react and Angular) and development mobile (with Flutter and React Native)
+- 👀 I’m interested in development in frontend (with react) and development mobile (with Flutter and React Native)
 - 🌱 I’m currently learning Reac Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
