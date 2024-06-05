@@ -1,7 +1,7 @@
 # Welcome to My Profile - @Florido14
 
 ## Professional Summary
-I am a Fullstack Developer with 2.5 years of experience in the industry. My expertise lies in developing comprehensive web and mobile applications. My approach is always rooted in leveraging the latest technologies to deliver high-quality solutions.
+I am a Fullstack Developer with 3 years of experience in the industry. My expertise lies in developing comprehensive web and mobile applications. My approach is always rooted in leveraging the latest technologies to deliver high-quality solutions.
 
 ## Technical Skills
 - **Frontend Development**: Proficient in React.js and React Native, focusing on creating responsive and user-friendly interfaces.
